@@ -1,4 +1,4 @@
-# :) shahlovez/README.md
+:) shahlovez/README.md
 
 # Hi there! 
 
